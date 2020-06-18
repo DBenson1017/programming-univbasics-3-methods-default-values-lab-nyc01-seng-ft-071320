@@ -8,4 +8,3 @@ def meal_choice(veg1, veg2, protein="tofu")
   message 
 end
 
-meal_choice() 
